@@ -30,7 +30,7 @@ The Library Management System is a Java-based console application developed to m
 LibraryManagementSystem/
 │
 ├── src/
-│   ├── user.java
+│   ├── User.java
 │   ├── Book.java
 │   ├── Library.java
     └── LibraryManagemnetSystem.java
@@ -52,7 +52,7 @@ All Java source files are located in the `src` folder:
 
 - Book.java → Book class
 - Library.java → Library operations
-- user.java → User functions
+- User.java → User functions
 - LibraryManagemnetSystem.java → Main program
 
 This project is developed using Java OOP concepts.
