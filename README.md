@@ -50,12 +50,11 @@ LibraryManagementSystem/
 
 All Java source files are located in the `src` folder:
 
-## Source Code
-
 - [Book.java](src/Book.java) – Book class
 - [Library.java](src/Library.java) – Library operations
 - [User.java](src/User.java) – User functions
 - [LibraryManagemnetSystem.java](src/LibraryManagemnetSystem.java) – Main program
+  
 This project is developed using Java OOP concepts.
 
 ## UML Diagrams
