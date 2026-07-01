@@ -46,6 +46,30 @@ LibraryManagementSystem/
 │
 └── README.md
 ```
+## Source Code Structure
+
+All Java source files are located in the `src` folder:
+
+- Book.java → Book class
+- Library.java → Library operations
+- user.java → User functions
+- LibraryManagemnetSystem.java → Main program
+
+This project is developed using Java OOP concepts.
+
+## UML Diagrams
+
+### Class Diagram
+![Class Diagram](UML/class.png)
+
+### Use Case Diagram
+![Use Case Diagram](UML/usecase.png)
+
+### Activity Diagram
+![Activity Diagram](UML/activity.png)
+
+### Sequence Diagram
+![Sequence Diagram](UML/sequence.png)
 
 ## Author
 **Chanuki**
